@@ -185,4 +185,3 @@ if num_seconds > 28800:
 
 ---
 
-*saimj7/ 19-08-2020 - © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.*
